@@ -1,15 +1,13 @@
-# Realtime Chat Application
+# Realtime Chat App
 
 ### [Live Site](https://realtime-chat-application.netlify.com)
 
-![Chat Application](https://i.ytimg.com/vi/ZwFA3YMfkoc/maxresdefault.jpg)
+A full realtime LiveChat application using React [react.js] language for the front end design and functionality, along with Nodejs + Socket.io web socket libraries on the back end side. 
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
 
-In this video, we will create a full Realtime Chat Application. We're going to use  React on the front end, with NodeJS + Socket.io web socket library on the back end. 
+IN ORDER TO START THE DEVELOPMENT SERVER, FOR BOTH "CLIENT" & "SERVER" FOLDER: 
 
-By the end of this video, you will have a strong understanding of how to send and receive messages using web sockets and Socket.io to make any real-time application.
-
-Setup:
-- run ```npm i && npm start``` for both client and server side to start the development server
+Terminal setup:
+run: 
+npm install  
+npm start
