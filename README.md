@@ -1,6 +1,6 @@
 # Realtime Chat App
 
-### [Live Site](https://60162f1413fd177bbe3eef99--agitated-wing-79c014.netlify.app/?fbclid=IwAR1sSbdN3GSMoLvtSti_ZAhieNw_bHutYmj0XfdsbJWc51firv64y3sWOQ0)
+### [Live Site](https://601901e80ef83c3f0ef1cd83--agitated-wing-79c014.netlify.app)
 
 A full realtime LiveChat application using React [react.js] language for the front end design and functionality, along with Nodejs + Socket.io web socket libraries on the back end side. 
 
